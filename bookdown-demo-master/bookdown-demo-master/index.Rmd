@@ -1,0 +1,17 @@
+--- 
+title: "Mikkel Peters dagbog"
+author: "Kristian Foged"
+date: "`r Sys.Date()`"
+##site: bookdown::bookdown_site
+##output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: no
+github-repo: kristianfoged
+description: "Dagbog Mikkel Peter"
+---
+
+# Forord
+bla bla bla
+

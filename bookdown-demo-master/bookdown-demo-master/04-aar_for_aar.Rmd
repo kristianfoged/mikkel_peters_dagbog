@@ -1,0 +1,15 @@
+# År for år
+
+Dagbogen år for år
+
+
+## Dagbog
+
+```{r, echo=FALSE}
+my_width <- 10
+knitr::kable(
+  head(dagbog[, c(8,2)], 100), booktabs = TRUE,
+  caption = 'År for år'
+)
+
+```
